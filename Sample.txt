@@ -1,0 +1,10 @@
+Enter your hostel/flat rent: 12000
+Enter the amount of food ordered: 5000
+Enter the total electricity spend: 200
+Enter the charge per unit: 10
+Enter the number of persons living in flat/hostel: 4
+
+
+Output:
+
+Each person will pay: 4000.0
